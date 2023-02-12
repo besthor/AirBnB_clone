@@ -1,3 +1,7 @@
+# AirBnB_clone
+Project completed for Holberton School.
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/263/HBTN-hbnb-Final.png)
+
 # AirBnB clone - The console
 The goal of the project is to deploy on a server a simple copy of the AirBnB website.
 It won’t implement all the features, only some of them to cover all fundamental concepts of the higher level programming track.
