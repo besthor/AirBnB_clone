@@ -1,0 +1,10 @@
+body {
+    margin: 0px; padding: 0px;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #484848;
+
+}
+p {
+    top: 50%;
+}
