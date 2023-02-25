@@ -114,5 +114,4 @@ help or help <command> Ex:
 * Review
 
 # Authors
-* Aiko Mi - <1205@holbertonschool.com>
-* Pablo Andres Urbano - <1283@holbertonschool.com>
+* Besthor Igbe <igbebestor7@gmail.com>
