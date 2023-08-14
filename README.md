@@ -1,12 +1,12 @@
 # `AirBnB_clone`
-## Project completed for ALX Software Engineering School.
+# Project completed for ALX Software Engineering School.
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/263/HBTN-hbnb-Final.png)
 
 # `AirBnB clone - The console`
 The goal of the project is to deploy on a server a simple copy of the AirBnB website.
 It won’t implement all the features, only some of them to cover all fundamental concepts of the higher level programming track.
 
-# `First step: Write a command interpreter to manage your AirBnB objects.`
+# `First step:` Write a command interpreter to manage your AirBnB objects.
 This first step is very important because it will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end in
 
 # `What’s a command interpreter?`
