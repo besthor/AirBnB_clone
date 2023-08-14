@@ -114,4 +114,5 @@ help or help <command> Ex:
 * Review
 
 # Authors
-* Besthor Igbe <igbebestor7@gmail.com>
+
+**Besthor Igbe** **[Email](besthortechhub@gmail.com)**
